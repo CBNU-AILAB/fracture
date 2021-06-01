@@ -1,6 +1,4 @@
-# fracture
-
-##딥러닝 기반 다발성 골절 CT 영상의 분류 논문 구현
+# 딥러닝 기반 다발성 골절 CT 영상의 분류 논문 구현
 
 ![image](https://user-images.githubusercontent.com/26565404/120285120-ec2cc600-c2f7-11eb-9add-298e1b79dfed.png)
 
